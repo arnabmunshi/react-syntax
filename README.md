@@ -1,4 +1,4 @@
-# react-syntax
+# React Syntax
 Some important Syntax for React
 
 ```javascript
